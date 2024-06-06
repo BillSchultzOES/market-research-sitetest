@@ -1,0 +1,9 @@
+{
+    "path" : "~/market-research-sitetest",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
