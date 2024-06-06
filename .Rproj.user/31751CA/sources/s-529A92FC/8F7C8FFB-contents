@@ -1,0 +1,12 @@
+
+library(tidyverse)
+
+set.seed(20405)
+
+df <- tibble(
+  id = rep.int(1:4, 2),
+  name = rep.int(c("a", "b"), 4),
+  val = rnorm(8, 0, 1)
+  )
+
+write.csv(df, "test_list.csv", row.names = F)

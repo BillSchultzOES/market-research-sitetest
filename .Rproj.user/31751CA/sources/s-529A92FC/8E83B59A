@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1717686187503.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8E83B59A",
+    "lastKnownWriteTime" : 1717688078,
+    "last_content_update" : 1717688078292,
+    "path" : "~/market-research-sitetest/primary script.R",
+    "project_path" : "primary script.R",
+    "properties" : {
+        "cursorPosition" : "26,16",
+        "scrollLine" : "17"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
