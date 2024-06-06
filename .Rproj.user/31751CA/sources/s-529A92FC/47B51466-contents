@@ -11,7 +11,8 @@ close(file_connection)
 
 # Code for _site.yml file
 site <- "name: '&#32;'
-exclude: ['build steps', '*.csv']"
+exclude: ['build steps', '*.csv']
+output: docs"
 
 # Generate _site.yml file
 file_connection <- file("_site.yml")
