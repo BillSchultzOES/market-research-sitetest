@@ -7,7 +7,10 @@ code <- "
 params:
   combination:
 title: 'Candidate SSBs for this opportunity'
-output: html_document
+output: 
+  html_document:
+    includes:
+       in_header: gtag.html
 ---
 
 ```{r setup, include=FALSE, message=FALSE, warning=FALSE}
