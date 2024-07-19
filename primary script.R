@@ -34,3 +34,4 @@ rmarkdown::render_site(encoding = 'UTF-8')
 # needed in the main directory
 unlink("ssblist", recursive = TRUE)
 unlink("site data", recursive = TRUE)
+unlink("store", recursive = TRUE)
